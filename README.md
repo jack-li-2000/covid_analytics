@@ -1,4 +1,5 @@
 🦠 COVID‑19 Data Analytics (SQL Project)
+
 Summary
 
 This project uses SQL to analyze global COVID‑19 data, focusing on trends in confirmed cases, deaths, and vaccination rates. The goal is to uncover patterns over time, compare regions, and identify factors that may influence the spread and impact of the virus. The analysis is performed entirely in SQL, making it portable and easy to adapt to different relational database systems.
